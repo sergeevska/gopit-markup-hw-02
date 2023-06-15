@@ -1,0 +1,54 @@
+/* Common styles */
+
+/* Header styles */
+.header {
+}
+.header-nav {
+}
+.logo-web {
+    color: #4D5AE5;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+}
+.logo-studio {
+    color: #2E2F42;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+ 
+/* Main styles */
+.main {
+}
+.title {
+}
+.button-studio {
+}
+.benefits-section {
+}
+.features {
+}
+.about-features {
+}
+.work-section {
+}
+.work-title {
+}
+.images {
+}
+.team-section {
+}
+.team-title {
+}
+.names {
+}
+.position {
+}
+
+/* Footer styles */
