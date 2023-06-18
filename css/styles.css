@@ -102,6 +102,7 @@ background-color: var(--main-text-color);
     display: flex;
     align-items: center;
     letter-spacing: 0.04em;
+    cursor: pointer;
 }
 .benefits-section {
     font-family: 'Roboto',sans-serif;
